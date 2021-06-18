@@ -24,3 +24,4 @@ public class SampleCanvas extends View {
         canvas.drawLine(200, 50, 350, 50, paint);}
 
 }
+
